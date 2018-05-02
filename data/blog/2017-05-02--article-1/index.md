@@ -9,7 +9,7 @@ image: pexels-photo-59628.jpeg
 draft: false
 ---
 
-My awesome article
+This a template article, because If I remove it, the server crashes.
 
 ## TODO
 
